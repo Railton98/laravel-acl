@@ -36,19 +36,19 @@
 			<li class="col-md-2 text-center">
 				<a href="/painel/posts">
 					<img src="{{ url("assets/painel/imgs/noticias-acl.png") }}" alt="Estilos" class="img-menu">
-					<h1>Notícias</h1>
+					<h1>Posts</h1>
 				</a>
 			</li>
 			<li class="col-md-2 text-center">
 				<a href="/painel/roles">
 					<img src="{{ url("assets/painel/imgs/funcao-acl.png") }}" alt="Albuns" class="img-menu">
-					<h1>Funções</h1>
+					<h1>Roles</h1>
 				</a>
 			</li>
 			<li class="col-md-2 text-center">
 				<a href="/painel/permissions">
 					<img src="{{ url("assets/painel/imgs/permissao-acl.png") }}" alt="Musicas" class="img-menu">
-					<h1>Permissões</h1>
+					<h1>Permissions</h1>
 				</a>
 			</li>
 			<li class="col-md-2 text-center">
